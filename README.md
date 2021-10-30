@@ -1,2 +1,2 @@
 # computer
-computer repository
+computer repository for git commands demonstration
